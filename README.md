@@ -8,4 +8,4 @@ This is a test Website created by Shivam Haldar.
 3. Can be run on Both Platforms with and without IDE
 4. Easily Understable
 
-![2](https://user-images.githubusercontent.com/94775990/153197760-4cb98699-27f9-4893-9083-bd56ed74782d.png)
+![3](https://user-images.githubusercontent.com/94775990/153198177-0d15eee8-1f28-4b28-9bb2-af542ae1e8a1.png)
